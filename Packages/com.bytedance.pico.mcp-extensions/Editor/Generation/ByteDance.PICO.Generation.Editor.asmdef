@@ -1,0 +1,16 @@
+{
+    "name": "ByteDance.PICO.Generation.Editor",
+    "rootNamespace": "ByteDance.PICO.Generation.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

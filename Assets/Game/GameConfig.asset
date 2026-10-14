@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387b15bb8aee9784795df235d0602a81, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::HoldTheCircle.GameConfigSO
+  m_playerMaxHealth: 120
+  m_waveFireIntervalInSeconds: 1
+  m_waveSpeedInMetersPerSecond: 12
+  m_waveDamage: 1
+  m_waveLifetimeInSeconds: 3
+  m_minChargeDamageMultiplier: 1.2
+  m_maxChargeDamageMultiplier: 4
+  m_fullChargeSpreadThreshold: 0.8
+  m_fullChargeBonusWaves: 3
+  m_baseCritChance: 0.18
+  m_critDamageMultiplier: 2.5
+  m_enemyBaseHealth: 3
+  m_enemyHealthPerWave: 0.8
+  m_enemyOrbitSpeedInDegrees: 40
+  m_enemyOrbitRadiusInMeters: 7
+  m_enemyLungeSpeedInMetersPerSecond: 2.6
+  m_enemyAttackRangeInMeters: 0.8
+  m_enemyAttackDamage: 6
+  m_enemyAttackIntervalInSeconds: 2
+  m_baseEnemyCount: 4
+  m_enemyCountPerWave: 1.5
+  m_enemyCountQuadratic: 0.4
+  m_maxEnemiesPerWave: 60
+  m_spawnRadiusInMeters: 8

@@ -1,0 +1,94 @@
+# Unity project: keep Assets, their .meta files, ProjectSettings and package manifests.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+/ProfilerCaptures/
+/Recordings/
+/GeneratedAssets/
+
+# Player builds and generated debugging output
+*.apk
+*.apk.meta
+*.aab
+*.aab.meta
+*.app/
+*.unitypackage
+*.unitypackage.meta
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+/sysinfo.txt
+/crashlytics-build.properties
+~UnityDirMonSyncFile~*
+
+# Addressables: keep settings, groups and schemas; rebuild player content locally.
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+
+# Generated solutions and local IDE settings
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.slnx
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Local version-control and assistant state
+/.plastic/
+/.trae/
+/.agents/
+/.pico-cli/
+**/.trae/
+/skills-lock.json
+/ignore.conf
+
+# Signing material and local environment overrides
+*.keystore
+*.keystore.meta
+*.jks
+*.jks.meta
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+!.env.sample
+local.properties
+
+# Temporary files and tool caches
+*.tmp
+*.tmp.meta
+*.bak
+*.bak.meta
+__pycache__/
+*.pyc
+.venv/
+/Docs/**/*.log
+
+# OS files
+.DS_Store*
+Thumbs.db
+[Dd]esktop.ini

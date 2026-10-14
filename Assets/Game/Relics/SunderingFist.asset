@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe6ff5c39fc7e4e4e8fa468c39e69c65, type: 3}
+  m_Name: SunderingFist
+  m_EditorClassIdentifier: Assembly-CSharp::HoldTheCircle.RelicSO
+  m_displayName: Sundering Fist
+  m_description: "A gauntlet that breaks every world it strikes. A sharp jolt of damage on pickup."
+  m_rarity: 0
+  m_tint: {r: 1, g: 0.65, b: 0.25, a: 1}
+  m_kind: 0
+  m_amount: 0.4
+  m_secondaryAmount: 0

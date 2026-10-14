@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4385f8d4811930f4ebe0d08c0557c64e, type: 3}
+  m_Name: Lance
+  m_EditorClassIdentifier: Assembly-CSharp::HoldTheCircle.SpecializationSO
+  m_displayName: Lance
+  m_description: "Single-target spear. Waves pierce through enemies and hit harder, but fire slower."
+  m_branch: 0
+  m_tint: {r: 1, g: 0.55, b: 0.25, a: 1}
+  m_fireRateMultiplier: 0.85
+  m_damageMultiplier: 1.4
+  m_baseExtraProjectiles: 0
+  m_basePierceCount: 1
+  m_baseDamageReduction: 0
+  m_baseRicochetCount: 2
+  m_nodes:
+  - Title: Pierce
+    DamageBonus: 0
+    FireRateBonus: 0
+    ExtraProjectiles: 0
+    ExtraPierce: 1
+    ExtraDamageReduction: 0
+    ExtraRicochet: 0
+  - Title: Charge
+    DamageBonus: 0.5
+    FireRateBonus: 0
+    ExtraProjectiles: 0
+    ExtraPierce: 0
+    ExtraDamageReduction: 0
+    ExtraRicochet: 0
+  - Title: Overload
+    DamageBonus: 0.75
+    FireRateBonus: 0.25
+    ExtraProjectiles: 0
+    ExtraPierce: 1
+    ExtraDamageReduction: 0
+    ExtraRicochet: 1

@@ -1,0 +1,864 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameStrings_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f0150a7714710ee43bb25b975a9cafe6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1029718016
+    m_Localized: HOLD THE CIRCLE  /  LANTERN RITES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084243968
+    m_Localized: KEEP THE LANTERN LIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438272
+    m_Localized: Right hand slashes; left hand chains. Hold both hands together at
+      your chest to pause.  {0} runs completed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438273
+    m_Localized: BEGIN A RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438274
+    m_Localized: Six connected encounters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438275
+    m_Localized: Relics, pacts and twin sentinels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438276
+    m_Localized: LEARN THE RITES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438277
+    m_Localized: Guided tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438278
+    m_Localized: Two short encounters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438279
+    m_Localized: ENDLESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438280
+    m_Localized: Continuous invasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438281
+    m_Localized: Survive for score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438282
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438283
+    m_Localized: Audio and comfort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438284
+    m_Localized: Settings are saved for your next session.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438285
+    m_Localized: ENABLE AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438286
+    m_Localized: MUTE AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438287
+    m_Localized: All game sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438288
+    m_Localized: Choose your language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438289
+    m_Localized: Use the English interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438290
+    m_Localized: SHOW NIGHT SKY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438291
+    m_Localized: SHOW REAL ROOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438292
+    m_Localized: Switch to the lantern night sky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438293
+    m_Localized: Switch to MR passthrough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438294
+    m_Localized: RETURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438295
+    m_Localized: Back to the lantern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438296
+    m_Localized: Back to settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438297
+    m_Localized: THE LANTERN WAITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438298
+    m_Localized: Take a breath. The encounter is paused.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438299
+    m_Localized: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438300
+    m_Localized: Continue this encounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438301
+    m_Localized: RETURN TO LANTERN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438302
+    m_Localized: End this run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438303
+    m_Localized: Resume when the headset is active.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438304
+    m_Localized: THE RITES COMPLETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438305
+    m_Localized: THE LANTERN ENDURES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438306
+    m_Localized: THE SEAL HAS FALLEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438307
+    m_Localized: Score {0}  /  {1} defeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438308
+    m_Localized: You are ready for the path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438309
+    m_Localized: +{0} shards  /  Total {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438310
+    m_Localized: A new path awaits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438311
+    m_Localized: Select an inscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438312
+    m_Localized: CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438313
+    m_Localized: Aim with either hand. Pinch to select, then pinch CONFIRM.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438314
+    m_Localized: "{0} \u2014 ready to confirm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438315
+    m_Localized: Pinch to confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438316
+    m_Localized: Pinch to select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438317
+    m_Localized: SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438318
+    m_Localized: '{0} KILLS'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438319
+    m_Localized: WAVE {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438320
+    m_Localized: '{0} SHARDS'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438321
+    m_Localized: VITAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438322
+    m_Localized: SEAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438323
+    m_Localized: FOCUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438324
+    m_Localized: LEFT HAND COOLING  /  {0} BREACHING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438325
+    m_Localized: LEFT HAND COOLING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438326
+    m_Localized: '{0} BREACHING THE SEAL'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438327
+    m_Localized: GAME OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438328
+    m_Localized: SCORE  {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438329
+    m_Localized: '{0} kills'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438330
+    m_Localized: You reached wave {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438331
+    m_Localized: Sentinels Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438332
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438333
+    m_Localized: Defeated at wave {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438334
+    m_Localized: +{0} shards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438335
+    m_Localized: 'Total: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438336
+    m_Localized: THE PATH  {0} / {1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438337
+    m_Localized: Choose a connected route. Your next encounter begins after confirmation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438338
+    m_Localized: Combat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438339
+    m_Localized: Elite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438340
+    m_Localized: Treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438341
+    m_Localized: Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438342
+    m_Localized: Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438343
+    m_Localized: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438344
+    m_Localized: Hold the seal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438345
+    m_Localized: Choose a relic on victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438346
+    m_Localized: Stronger invasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438347
+    m_Localized: Relic + bonus shards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438348
+    m_Localized: Claim a free relic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438349
+    m_Localized: Spend shards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438350
+    m_Localized: Purchase or remove a relic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438351
+    m_Localized: A pact with the lantern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438352
+    m_Localized: Choose risk or recovery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438353
+    m_Localized: Twin lantern sentinels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438354
+    m_Localized: Final encounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438355
+    m_Localized: A LANTERN GIFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438356
+    m_Localized: Choose one inscription to carry into the next encounter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438357
+    m_Localized: Common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438358
+    m_Localized: Uncommon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438359
+    m_Localized: Rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438360
+    m_Localized: Epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438361
+    m_Localized: Legendary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438362
+    m_Localized: LEFT HAND RITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438363
+    m_Localized: RIGHT HAND RITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438364
+    m_Localized: Your rite evolves after each cleared encounter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438365
+    m_Localized: THE LANTERN KEEPER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438366
+    m_Localized: You carry {0} shards. Confirm a purchase, removal, or departure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438367
+    m_Localized: No relic owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438368
+    m_Localized: Sold out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438369
+    m_Localized: '{0} shards'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438370
+    m_Localized: REMOVE RELIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438371
+    m_Localized: '{0} shards, 1 refunded'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438372
+    m_Localized: DEPART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438373
+    m_Localized: Keep your shards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438374
+    m_Localized: Frostbound Pact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438375
+    m_Localized: Bleed for power, or walk away unharmed?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438376
+    m_Localized: Bleed +10% damage (-15 HP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438377
+    m_Localized: Walk away (+2 shards)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438378
+    m_Localized: Pulsing Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438379
+    m_Localized: Pry it open?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438380
+    m_Localized: Pry +1 projectile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438381
+    m_Localized: Leave it (+1 shard)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438382
+    m_Localized: Sentinel Echo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438383
+    m_Localized: Mimic the sentinels' cadence?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438384
+    m_Localized: Mimic +15% fire rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438385
+    m_Localized: Heal +20 HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438386
+    m_Localized: Accept the pact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438387
+    m_Localized: Choose recovery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438388
+    m_Localized: TWIN SENTINELS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438389
+    m_Localized: SENTINEL I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438390
+    m_Localized: SENTINEL II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438391
+    m_Localized: THE SENTINELS AWAKEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438392
+    m_Localized: I  /  MIRRORED RITES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438393
+    m_Localized: BREAK THEIR RITUAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438394
+    m_Localized: II  /  SPLIT RITES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438395
+    m_Localized: LAST SENTINEL ENRAGED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438396
+    m_Localized: THE RITES ARE BROKEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438397
+    m_Localized: FALLEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438398
+    m_Localized: STEP 1 / 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438399
+    m_Localized: SWIPE YOUR RIGHT HAND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438400
+    m_Localized: A fast horizontal swipe throws an energy wave.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438401
+    m_Localized: NORMAL ENCOUNTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438402
+    m_Localized: Use both hands. Keep the kill chain alive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438403
+    m_Localized: CHOOSE ONE RELIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438404
+    m_Localized: Choose an inscription, then confirm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438405
+    m_Localized: ELITE ENCOUNTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438406
+    m_Localized: Prioritize ranged Weavers and break the Tanks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438407
+    m_Localized: VERTICAL SLICE COMPLETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438408
+    m_Localized: Score {0}  |  {1} kills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438409
+    m_Localized: Use Restart to run it again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438410
+    m_Localized: STEP 2 / 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438411
+    m_Localized: POINT YOUR LEFT PALM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438412
+    m_Localized: Hold an enemy in the blue cone to chain lightning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438413
+    m_Localized: CLEAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438414
+    m_Localized: UNLOCKED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438415
+    m_Localized: Lance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438416
+    m_Localized: Storm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438417
+    m_Localized: Aegis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438418
+    m_Localized: Single-target spear. Waves pierce through enemies and hit harder,
+      but fire slower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438419
+    m_Localized: Spread fan. Fires faster with extra projectiles, trading raw damage
+      for crowd control.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438420
+    m_Localized: Defensive bulwark. Reduces incoming damage at the cost of slightly
+      slower waves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438421
+    m_Localized: Pierce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438422
+    m_Localized: Charge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438423
+    m_Localized: Overload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438424
+    m_Localized: Multishot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438425
+    m_Localized: Tempest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438426
+    m_Localized: Eye of the Storm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438427
+    m_Localized: Bulwark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438428
+    m_Localized: Singularity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438429
+    m_Localized: Phantom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438430
+    m_Localized: Wind Shard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438431
+    m_Localized: Splinter of caged wind. Hands fire faster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438432
+    m_Localized: Ward of the Vanquished
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438433
+    m_Localized: Etched with the names of the fallen. When you tip toward death,
+      their fury floods you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438434
+    m_Localized: Vow of Ruin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438435
+    m_Localized: An oath written in obsidian. Each fallen foe turns the next blow
+      heavier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438436
+    m_Localized: Twin Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438437
+    m_Localized: Two embers braided into one. Each beam multiplies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438438
+    m_Localized: Tidewarden Scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438439
+    m_Localized: A scale plucked from the sea-keeper. Stitches a wound for every
+      three slain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438440
+    m_Localized: Thorn Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438441
+    m_Localized: A circlet of brambles. Each cut tightens the grip and quickens the
+      next strike.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438442
+    m_Localized: Sundering Fist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438443
+    m_Localized: A gauntlet that breaks every world it strikes. A sharp jolt of damage
+      on pickup.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438444
+    m_Localized: Stone Will
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438445
+    m_Localized: A weight of mountains in the palm. Every shot lands harder.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438446
+    m_Localized: Starring Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438447
+    m_Localized: A halo of bound starlight. Every dozen kills births a new beam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438448
+    m_Localized: Gale Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438449
+    m_Localized: A feather sheared from a storm. Hands beat to a quicker tempo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438450
+    m_Localized: Slaughter Mark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438451
+    m_Localized: Each kill quickens the next. Stack speed forever.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438452
+    m_Localized: Prism Flock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438453
+    m_Localized: Eight kills, and another shard of light splits from your palm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438454
+    m_Localized: Ember Heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438455
+    m_Localized: A smoldering ember bound in iron. Every shot lands heavier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438456
+    m_Localized: Pain Echo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438457
+    m_Localized: Resonates with each blow taken, hands surge with quickening rage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438458
+    m_Localized: Brink Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438459
+    m_Localized: A lantern that ignites only at the edge of death. The first time
+      you fall under thirty percent health, the light surges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438460
+    m_Localized: Blood Fang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438461
+    m_Localized: A crimson tooth that drinks essence. Damage rises with every kill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438462
+    m_Localized: Moonsoul Charm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438463
+    m_Localized: Pale silver pendant. Mends a wound for every five kills.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438464
+    m_Localized: Mirror Prism
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438465
+    m_Localized: Faceted glass that splits each beam in two.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438466
+    m_Localized: Aeon's Ledger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438467
+    m_Localized: A book that tallies vanquished foes. Each closed wave inks heavier
+      strikes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438468
+    m_Localized: Hunter's Omen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438469
+    m_Localized: A dark sigil that drinks the breath of the slain. Each kill sharpens
+      hands further.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438470
+    m_Localized: Hourglass of Dust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438471
+    m_Localized: Time deepens the strike. Every cleared wave thickens your damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438472
+    m_Localized: FIRE RATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438473
+    m_Localized: DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088438474
+    m_Localized: EXTRA PROJECTILE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24786421956608
+    m_Localized: Look at a choice. Pinch either hand, release, then look at CONFIRM
+      and pinch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24786468093952
+    m_Localized: Eye tracking unavailable. Aim with your head and pinch either hand.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

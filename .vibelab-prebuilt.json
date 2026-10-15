@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "processor_revision": "il2cpp-prebuild-v6",
+  "il2cpp_so_sha256": "2dc957f8ba99f31f84dd33b60496b3be5cd6b519bffafdfc5881fe7ccd9cb666",
+  "global_metadata_sha256": "a794f5d8e64e216896fced26d9c2ae26590412e03ed36c4893fb7f1e255c2f13",
+  "unity_version": "6000.3.14f1",
+  "unity_template_version": "21",
+  "ndk_version": "27.2.12479018",
+  "abi": [
+    "arm64-v8a"
+  ],
+  "target_sdk": 36,
+  "native_inventory": [
+    {
+      "name": "lib_burst_generated.so",
+      "sha256": "f45593e3a066f68ce41efa1a8908d4ec8647dde43c0258d31359bd30107b09ba"
+    },
+    {
+      "name": "libil2cpp.so",
+      "sha256": "2dc957f8ba99f31f84dd33b60496b3be5cd6b519bffafdfc5881fe7ccd9cb666"
+    },
+    {
+      "name": "libmain.so",
+      "sha256": "01af59cb4cb1f30b6ba95ee73cd9ed0142d4e56361d9dcaf8be367ed650c0ca4"
+    },
+    {
+      "name": "libPicoAmbisonicDecoder.so",
+      "sha256": "f1ce09e5ba00cc86766f9938bc26797ee29b999cda27fd049dc831a8dbec7f39"
+    },
+    {
+      "name": "libPicoAudioRouter.so",
+      "sha256": "10a184a61e33f7663d91757e1eb1b97c9585501c7f363c28a41cf2446693b4d7"
+    },
+    {
+      "name": "libPicoAudioSDKUnityNativePlugin.so",
+      "sha256": "f4aa8d8d8a74b894392e334e9de195f76765a0cdf5908afe96bdf76fb03193b0"
+    },
+    {
+      "name": "libPicoSpatializer.so",
+      "sha256": "456f0e9d75fe8b388c442dc3dc64b3495d824b8b34ff2b84cfd9a3fe09b801f6"
+    },
+    {
+      "name": "libpxrplatformloader.so",
+      "sha256": "8babaafc71b642295f03f73ec80141e5705c34b4b5770afc4c86ef238e5ecb05"
+    },
+    {
+      "name": "libunity.so",
+      "sha256": "83cae80a709bfc7262e600bf381d5548f56937a3aa95486b2ede7b3790f258b1"
+    },
+    {
+      "name": "libUnityOpenXRHands.so",
+      "sha256": "7436a2d6369ee0efa7a56b490c9d90510a5824768a2cc7c185c0ed15ff74b87d"
+    }
+  ],
+  "generated_at": "2026-10-15T04:11:27.6583648Z"
+}

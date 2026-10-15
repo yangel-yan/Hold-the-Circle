@@ -99,7 +99,7 @@ android {
     }
     sourceSets {
         main {
-            jni.srcDirs = ["src/main/Il2CppOutputProject"]
+            jni.srcDirs = []
         }
     }
 }
@@ -190,4 +190,6 @@ def execCommand(String workDir, List<String> command, Map<String, String> env = 
         error.append("Command Line:\n${command.join(' ')}\n");
         throw new GradleException(error.toString())
     }
-}
+}
+
+tasks.named('buildIl2Cpp').configure { enabled = false }

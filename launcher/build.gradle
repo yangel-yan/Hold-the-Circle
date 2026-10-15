@@ -47,27 +47,18 @@ android {
         }
     }
 
-    signingConfigs {
-        release {
-            storeFile file('C:/Users/Admin/yangel.keystore')
-            storePassword ''
-            keyAlias 'yangel'
-            keyPassword ''
-        }
-    }
-
     buildTypes {
         debug {
             minifyEnabled = false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
             jniDebuggable = true
-            signingConfig signingConfigs.release
+            signingConfig signingConfigs.debug
         }
 
         release {
             minifyEnabled = false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
-            signingConfig signingConfigs.release
+            signingConfig signingConfigs.debug
         }
     }
 
